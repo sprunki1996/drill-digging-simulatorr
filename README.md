@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="hero.webp" alt="Drill Digging Simulator Banner" width="800"/>
   
   # Drill Digging Simulator
   
